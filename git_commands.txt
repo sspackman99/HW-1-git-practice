@@ -1,2 +1,136 @@
+  455  git -- version
+  456  git --version
+  458  git --version
+  459  git status
+  460  git config
+  462  git config --list
+  463  git config --global user.name "Sam Spackman"
+  464  git config --global user.email "sspackman99@gmail.com"
+  465  git config --list
+  504  git config --global core.editor "code --wait"
+  505  git config --global color.ui auto
+  506  git config --global init.defaultBranch main
+  507  git --version
+  508  git config
+  512  git config
+  521  git status
+  523  git init
+  525  git status
+  531  git status
+  532  git add statistics.txt
+  533  git status
+  534  git committ -m 'create statistics file'
+  535  git commit -m 'create statistics file'
+  536  git status
+  537  git add history.txt
+  538  git commit
+  539  git config --global core.editor "code --wait"
+  540  git commit
+  541  git commit
+  542  git config --global core.editor "code -w"
+  543  git commit
+  548  git config --global core.editor "code -w"
+  549  git commit
+  550  git status
+  551  git status
+  553  git status
+  555  git status
+  556  git add .
+  557  git add -a
+  558  git add -A
+  559  git status
+  560  git commit -m 'haha'
+  561  git status
+  562  git history
+  563  git log
+  567  git status
+  570  git status
+  571  git add .getignore
+  578  git commit -a -m 'add gitignore file'
+  579  git add .getignore
+  580  git status
+  581  git commit -a -m 'add gitignore file'
+  582  git log
+  583  git status
+  585  git status
+  586  git status
+  587  git add .gitignore
+  588  git commit -a -m 'add gitignore file'
+  589  git status
+  590  git log
+  591  git status
+  596  git status
+  597  git log
+  598  git log --oneline
+  600  git branch
+  601  git branch music
+  602  git branch
+  603  git switch music
+  604  git branch
+  605  git log
+  606  git log --online
+  607  git log --oneline
+  610  git status
+  611  git add .
+  612  git commit -m 'create music cur file'
+  613  git status
+  614  git log
+  615  git swtich main
+  616  git status
+  617  git switch main
+  618  git merge music
+  619  git log
+  620  git branch -d music
+  621  git branch
+  631  git status
+  633  git status
+  639  git init
+  640  git status
+  642  git status
+  646  git status
+  647  git add .
+  648  git commit -m 'create class files'
+  649  git status
+  654  git add statistics.txt
+  656  git commit -m 'add statistics class curriculum'
+  657  git add history.txt
+  658  git commit -m 'add history class curriculum'
+  661  git add .
+  662  git commit -m 'adding changes to the stats and history files'
+  666  git status
+  667  git add .
+  668  git commit -m 'adding .gitignore file'
+  669  git status
+  670  git log
+  672  git status
+  673  git branch music
+  674  git switch music
+  675  git log
+  677  git add .
+  678  git commit -m 'add empty music file'
+  680  git add .
+  681  git commit -m 'added music curriculum'
+  682  git branch orchestra
+  683  git switch orchestra
+  686  git add .
+  687  git commit -m "Added strings file"
+  688  git switch music
+  689  git merge orchestra
+  690  git branch -d orchestra
+  691  git status
+  692  git log
+  693  git switch main
+  694  git log
+  695  git switch music
+  696  git log
+  697  git switch main
+  698  git merge music
+  699  git branch -d music
+  700  git status
+  701  git log
   717  git remote add origin git@github.com:sspackman99/HW-1-git-practice.git
   718  git push -u origin main
+  720  git push -u origin main
+  721  git add .
+  722  git commit -m "Adding git commands file"
+  723  git push -u origin main
